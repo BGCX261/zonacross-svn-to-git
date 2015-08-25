@@ -1,0 +1,53 @@
+#daftar-isi {
+background-color:#333;
+border:2px solid #fafafa;
+color:#fff;
+margin-bottom:10px;
+-webkit-box-shadow:0 1px 2px #000;
+-moz-box-shadow:0 1px 2px #000;
+box-shadow:0 1px 2px #000;overflow:hidden;
+}
+#daftar-isi .judul-label {
+overflow:hidden;
+cursor:pointer;
+text-decoration:none;
+font-size: 13px;
+padding:10px 15px 11px;
+color:#bbb;
+text-shadow:0 1px 1px rgba(0, 0, 0, 0.3);
+border-top:1px solid #444;
+border-bottom:1px solid #222;
+background:#333;
+}
+#daftar-isi .headactive {
+color:#efefef;
+border-top:1px solid #24B6E3;
+border-bottom:1px solid #104968;
+background:#248AB0;
+}
+#daftar-isi ol {
+background:#333;
+margin:0 0;
+padding:0 0;
+color:#999;
+list-style:none;
+}
+#daftar-isi li {
+line-height:normal;
+font-size:11px;
+margin:0 0;
+padding:5px 5px 5px 15px;
+white-space:nowrap;
+text-align:left;
+border-top:1px solid #444;
+border-bottom:1px solid #222;
+}
+#daftar-isi li:first-child {border-top:none}
+#daftar-isi a{color:#5687f8}
+#daftar-isi a:hover{text-decoration:underline}
+#daftar-isi a:visited{color:#5687b8}
+#daftar-isi strong {
+font-weight:bold;
+font-style:italic;
+color:red;
+}

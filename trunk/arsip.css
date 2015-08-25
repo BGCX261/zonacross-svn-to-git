@@ -1,0 +1,6 @@
+.content-wrapper {border: none;background: none;}
+#menu, #credit{display:none}
+#commentBodyField{margin: 5px 0;width: 98%;background: rgba(0, 0, 0, 0.41);border: none;box-shadow: 0 1px 5px rgba(0, 0, 0, .9), 0 2px 8px rgba(0, 0, 0, .6)inset;color: #FFF;}
+body{background: url(http://urang-kurai-blogspot.googlecode.com/svn/trunk/UK/image/bg-wood-contact.jpg)}
+body:before {content: '';background: rgba(0, 0, 0, 0);background: -moz-radial-gradient(center center, circle cover, rgba(0, 0, 0, .0) 0%, rgba(0, 0, 0, 1) 100%) no-repeat;background: -webkit-gradient(radial, center center, 0, center center, 800, from(rgba(0, 0, 0, .0)), to(rgba(0, 0, 0, 1)));position: fixed;top: 0;left: 0;bottom: 0;right: 0;z-index: 1}
+.page-menu li a{background: url(http://urang-kurai-blogspot.googlecode.com/svn/trunk/UK/image/bg-wood-archive.jpg);border: 1px solid #111;border-top-color: rgba(0, 0, 0, 0.09);border-bottom-color: rgba(255, 255, 255, 0.05);-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, .9),0 0 10px rgba(0, 0, 0, .7)inset;}
